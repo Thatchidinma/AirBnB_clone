@@ -1,0 +1,1 @@
+Adding structure and style to the airbnb with html and css
